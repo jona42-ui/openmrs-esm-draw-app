@@ -45,12 +45,9 @@
   },
   "dependencies": {
     "@carbon/react": "^1.33.0",
-<<<<<<< HEAD
-=======
     "@openmrs/esm-patient-common-lib": "latest",
     "carbon-components-react": "^8.34.1",
     "carbon-icons": "^7.0.7",
->>>>>>> 7f69291 (Add attachment resource and make request to save annoatated image)
     "lodash-es": "^4.17.21",
     "react-image-annotate": "^1.8.0",
     "svg.js": "^2.7.1"
